@@ -15,6 +15,6 @@
 ! THIS PRGORAM IS NOT LIKE ANY OTHER TOOLS OUT THERE IT IS AHEAD OF ITS TIME !
 
 
-![Uploading image.png…]()
+<img width="432" height="236" alt="image" src="https://github.com/user-attachments/assets/dc56629d-f01f-40df-b10b-0e7e446d813b" />
 
 THIS IS THE TOOL WORKING AS A DISCORD BOT, I CAN PROVIDE CODE FOR TELEGRAM, DISCORD BOT TOO UPON PURCHASE.
